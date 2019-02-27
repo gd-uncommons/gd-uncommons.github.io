@@ -1,5 +1,5 @@
 body {
-	background-color: #B0B0B0;
+	background-color: #c3c3c3;
 }
 .main_container {
 	padding: 17% 20% 10% 40%;
@@ -61,7 +61,7 @@ a:hover {
 
 .h1-style {
 	color: #693471;
-	background-color: #B0B0B0;
+	background-color: #c3c3c3;
 	border-style: solid;
 	border-color: #693471;
 	padding: 2%;
