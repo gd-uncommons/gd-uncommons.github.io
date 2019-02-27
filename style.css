@@ -72,3 +72,7 @@ a:hover {
 	font-style: italic;
 	color: gray;
 }
+
+.cover {
+	width: 80%;
+}
